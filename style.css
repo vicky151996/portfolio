@@ -35,6 +35,15 @@ h2 {
   background: #0ea5e9;
   color: white;
 }
+.resume-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px;
+  background: #38bdf8;
+  color: black;
+  border-radius: 5px;
+  text-decoration: none;
+}
 
 .project-card a {
   display: inline-block;
@@ -63,6 +72,11 @@ a {
   .container {
     padding: 10px;
   }
+  footer {
+  text-align: center;
+  margin-top: 40px;
+  color: gray;
+}
 nav {
   display: flex;
   gap: 15px;
