@@ -63,4 +63,14 @@ a {
   .container {
     padding: 10px;
   }
+nav {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
 }
+
+nav a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+  }
