@@ -31,6 +31,10 @@ h2 {
 .project-card:hover {
   transform: scale(1.05);
 }
+.project-card a:hover {
+  background: #0ea5e9;
+  color: white;
+}
 
 .project-card a {
   display: inline-block;
